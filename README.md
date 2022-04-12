@@ -1,2 +1,2 @@
 # 🎈 Streamlit : st.multiselect() method
-Displays a multiselect widget
+Multiselect all of your favorite deserts at once!
