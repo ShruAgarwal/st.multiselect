@@ -1,2 +1,2 @@
-# st.multiselect
-Day 11 of 30-Days-of-Streamlit Challenge
+# 🎈 Streamlit : st.multiselect() method
+Displays a multiselect widget
